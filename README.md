@@ -48,6 +48,11 @@ Setelah masuk ke terminal, praktikan berpindah ke direktori kompilasi Xinu dan m
 $ cd xinu/compile
 $ make clean
 $ make
+<img width="610" height="563" alt="image" src="https://github.com/user-attachments/assets/8127dd42-9fde-4b3d-9977-d0b5647e77ce" />
+<img width="269" height="161" alt="image" src="https://github.com/user-attachments/assets/fc25fda8-ba47-4b16-8ebb-4e326e3db09b" />
+<img width="566" height="439" alt="image" src="https://github.com/user-attachments/assets/c398d1eb-786e-4001-9681-015a28136ba3" />
+<img width="566" height="173" alt="image" src="https://github.com/user-attachments/assets/20c46e0f-851c-417f-b71d-1a1e25aff771" />
+
 **Hasil :** Proses hasil menggunakan 'make' Akan membuat seluruh nya source code nya compile C menjadi 'Xinu.elf' terus sistem dapat membaca otomatis menyalin image ke direktori server TFTP 
 
 <img width="610" height="563" alt="image" src="https://github.com/user-attachments/assets/8127dd42-9fde-4b3d-9977-d0b5647e77ce" />
